@@ -1,0 +1,100 @@
+{
+"stores": [
+  {
+    "storeCode": "c9z0d1",
+    "manager": {
+      "uuid": "386a641a-5ee8-421f-9f92-dfa88ebc6abb",
+      "firstName": "Barry",
+      "lastName": "Bluck",
+      "address": {
+        "street": "44238 Everett Park",
+        "city": "Elmira",
+        "state": "NY",
+        "zipCode": "14905"
+      },
+      "emailAddresses": [
+        "\"[\"\"bbluck3@etsy.com\"\"",
+        "\"\"bbluck3@amazon.com\"\"]\""
+      ]
+    },
+    "address": {
+      "street": "1 Loomis Crossing",
+      "city": "Philadelphia",
+      "state": "PA",
+      "zipCode": "19120"
+    }
+  },
+  {
+    "storeCode": "af89et",
+    "manager": {
+      "uuid": "d3c8d000-4a6f-4906-a728-c15acdc23a32",
+      "firstName": "Gaylord",
+      "lastName": "Rands",
+      "address": {
+        "street": "8515 Sommers Point",
+        "city": "Lexington",
+        "state": "KY",
+        "zipCode": "40515"
+      },
+      "emailAddresses": [
+        "\"[\"\"grands1@purevolume.com\"\"",
+        "\"\"grands1@businessinsider.com\"\"]\""
+      ]
+    },
+    "address": {
+      "street": "491 Scott Lane",
+      "city": "Long Beach",
+      "state": "CA",
+      "zipCode": "90831"
+    }
+  },
+  {
+    "storeCode": "jk381d",
+    "manager": {
+      "uuid": "b55f795c-d0ff-411a-9fc3-07fb71af7d84",
+      "firstName": "Dorey",
+      "lastName": "Domerque",
+      "address": {
+        "street": "020 Manufacturers Pass",
+        "city": "Roanoke",
+        "state": "VA",
+        "zipCode": "24040"
+      },
+      "emailAddresses": [
+        "\"[\"\"ddomerque0@indiegogo.com\"\"]\""
+      ]
+    },
+    "address": {
+      "street": "259 Sheridan Plaza",
+      "city": "Norfolk",
+      "state": "VA",
+      "zipCode": "23504"
+    }
+  },
+  {
+    "storeCode": "489fx1",
+    "manager": {
+      "uuid": "e1fadb08-2444-49cf-a29b-ca5e2f7de729",
+      "firstName": "Alfons",
+      "lastName": "Willcocks",
+      "address": {
+        "street": "5 Alpine Crossing",
+        "city": "Colorado Springs",
+        "state": "CO",
+        "zipCode": "80940"
+      },
+      "emailAddresses": [
+        "\"[\"\"awillcocks2@ask.com\"\"",
+        "\"\"awillcocks2@miibeian.gov.cn\"\"",
+        "\"\"awillcocks2@msu.edu\"\"]\""
+      ]
+    },
+    "address": {
+      "street": "113 Donald Avenue",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zipCode": "90065"
+    }
+  }
+]
+}

@@ -1,0 +1,34 @@
+{
+"products": [
+  {
+    "price": 959.67,
+    "code": "e001",
+    "name": "iPhone 12 Pro"
+  },
+  {
+    "price": 714.29,
+    "code": "e002",
+    "name": "Google Pixel 7"
+  },
+  {
+    "costPerHour": 105.49,
+    "code": "s001",
+    "name": "Phone Repair"
+  },
+  {
+    "periodCost": 30.5,
+    "code": "p001",
+    "name": "Unlimited Daily"
+  },
+  {
+    "costPerGB": 1.5,
+    "code": "p002",
+    "name": "LTE Basic"
+  },
+  {
+    "costPerGB": 1.79,
+    "code": "p003",
+    "name": "5G Basic"
+  }
+]
+}

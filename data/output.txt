@@ -1,0 +1,160 @@
++----------------------------------------------------------------------------------------+
+| Summary Report - By Total                                                              |
++----------------------------------------------------------------------------------------+
+Invoice #       Store      Customer                  Num Items       Tax         Total     
+s001            jk381d     Piquard, Gisella          1               $62.38      $1022.05   
+s002            489fx1     Vann, Julie               1               $0.00       $71.43     
+s003            jk381d     Piquard, Gisella          1               $14.77      $436.73    
+s004            c9z0d1     Vann, Julie               1               $8.26       $135.34    
+s005            af89et     Vann, Julie               1               $9.90       $189.90    
+s006            jk381d     Piquard, Gisella          1               $7.88       $151.08    
++----------------------------------------------------------------------------------------+
+                                                     6               $ 103.19     $ 2006.53
+
+
++----------------------------------------------------------------+
+| Store Sales Summary Report                                     |
++----------------------------------------------------------------+
+Store      Manager                   # Sales         Grand Total    
+c9z0d1     Bluck, Barry              1               $135.34         
+af89et     Rands, Gaylord            1               $189.90         
+jk381d     Domerque, Dorey           3               $1609.86        
+489fx1     Willcocks, Alfons         1               $71.43          
++----------------------------------------------------------------+
+                                     6               $ 2006.53
+
+Sales   #s001
+Store   #jk381d
+Date    2023-04-06
+Customer:
+Piquard, Gisella (8276809f-b574-4adf-a718-1f38e0a60eb9)
+"[""gpiquard4@netscape.com""""gpiquard4@spotify.com""]"
+898 Morningstar Park
+Lansing MI 48901
+
+Sales Person:
+Domerque, Dorey (b55f795c-d0ff-411a-9fc3-07fb71af7d84)
+"[""ddomerque0@indiegogo.com""]"
+020 Manufacturers Pass
+Roanoke VA 24040
+
+Items (1)                                                            Tax       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=- -=-=-=-=-=-
+iPhone 12 Pro (e001)                                   62.38     959.67
+
+                                                             -=-=-=-=-=- -=-=-=-=-=-
+                                                  Subtotals: $     62.38 $    959.67
+                                                Grand Total:             $   1022.05
+Sales   #s002
+Store   #489fx1
+Date    2023-09-04
+Customer:
+Vann, Julie (a13a1ed0-81c8-465e-90b1-1447546ceea6)
+"[""jvann5@delicious.com""]"
+98132 Oneill Drive
+Oklahoma City OK 73147
+
+Sales Person:
+Willcocks, Alfons (e1fadb08-2444-49cf-a29b-ca5e2f7de729)
+"[""awillcocks2@ask.com""""awillcocks2@miibeian.gov.cn""""awillcocks2@msu.edu""]"
+5 Alpine Crossing
+Colorado Springs CO 80940
+
+Items (1)                                                            Tax       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=- -=-=-=-=-=-
+Google Pixel 7 (e002) - Lease for 15 months                                    0.00      71.43
+
+                                                             -=-=-=-=-=- -=-=-=-=-=-
+                                                  Subtotals: $      0.00 $     71.43
+                                                Grand Total:             $     71.43
+Sales   #s003
+Store   #jk381d
+Date    2023-06-18
+Customer:
+Piquard, Gisella (8276809f-b574-4adf-a718-1f38e0a60eb9)
+"[""gpiquard4@netscape.com""""gpiquard4@spotify.com""]"
+898 Morningstar Park
+Lansing MI 48901
+
+Sales Person:
+Domerque, Dorey (b55f795c-d0ff-411a-9fc3-07fb71af7d84)
+"[""ddomerque0@indiegogo.com""]"
+020 Manufacturers Pass
+Roanoke VA 24040
+
+Items (1)                                                            Tax       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=- -=-=-=-=-=-
+Phone Repair (s001) - 4.00 hours @ $105.49/hour                                   14.77     421.96
+
+                                                             -=-=-=-=-=- -=-=-=-=-=-
+                                                  Subtotals: $     14.77 $    421.96
+                                                Grand Total:             $    436.73
+Sales   #s004
+Store   #c9z0d1
+Date    2023-08-03
+Customer:
+Vann, Julie (a13a1ed0-81c8-465e-90b1-1447546ceea6)
+"[""jvann5@delicious.com""]"
+98132 Oneill Drive
+Oklahoma City OK 73147
+
+Sales Person:
+Bluck, Barry (386a641a-5ee8-421f-9f92-dfa88ebc6abb)
+"[""bbluck3@etsy.com""""bbluck3@amazon.com""]"
+44238 Everett Park
+Elmira NY 14905
+
+Items (1)                                                            Tax       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=- -=-=-=-=-=-
+Unlimited Daily (p001) - Voice 402-309-2034
+ 125 days @ $30.50 / 30 days                                    8.26     127.08
+
+                                                             -=-=-=-=-=- -=-=-=-=-=-
+                                                  Subtotals: $      8.26 $    127.08
+                                                Grand Total:             $    135.34
+Sales   #s005
+Store   #af89et
+Date    2023-01-24
+Customer:
+Vann, Julie (a13a1ed0-81c8-465e-90b1-1447546ceea6)
+"[""jvann5@delicious.com""]"
+98132 Oneill Drive
+Oklahoma City OK 73147
+
+Sales Person:
+Rands, Gaylord (d3c8d000-4a6f-4906-a728-c15acdc23a32)
+"[""grands1@purevolume.com""""grands1@businessinsider.com""]"
+8515 Sommers Point
+Lexington KY 40515
+
+Items (1)                                                            Tax       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=- -=-=-=-=-=-
+LTE Basic (p002) - Data
+ 120.00 GB @ $1.50/GB                                    9.90     180.00
+
+                                                             -=-=-=-=-=- -=-=-=-=-=-
+                                                  Subtotals: $      9.90 $    180.00
+                                                Grand Total:             $    189.90
+Sales   #s006
+Store   #jk381d
+Date    2023-05-24
+Customer:
+Piquard, Gisella (8276809f-b574-4adf-a718-1f38e0a60eb9)
+"[""gpiquard4@netscape.com""""gpiquard4@spotify.com""]"
+898 Morningstar Park
+Lansing MI 48901
+
+Sales Person:
+Domerque, Dorey (b55f795c-d0ff-411a-9fc3-07fb71af7d84)
+"[""ddomerque0@indiegogo.com""]"
+020 Manufacturers Pass
+Roanoke VA 24040
+
+Items (1)                                                            Tax       Total
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-                          -=-=-=-=-=- -=-=-=-=-=-
+5G Basic (p003) - Data
+ 80.00 GB @ $1.79/GB                                    7.88     143.20
+
+                                                             -=-=-=-=-=- -=-=-=-=-=-
+                                                  Subtotals: $      7.88 $    143.20
+                                                Grand Total:             $    151.08
